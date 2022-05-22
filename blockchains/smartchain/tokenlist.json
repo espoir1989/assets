@@ -852,7 +852,17 @@
             "decimals": 18,
             "logoURI": "https://assets-cdn.trustwallet.com/blockchains/smartchain/assets/0x8C851d1a123Ff703BD1f9dabe631b69902Df5f97/logo.png",
             "pairs": []
-        }
+        },
+        {
+            "asset": "c20000714_t0x8C851d1a123Ff703BD1f9dabe631b69902Df5f97",
+            "type": "BEP20",
+            "address": "0x73b3B1b2cACAB92963144277458E2E9851517022",
+            "name": "UNI Token",
+            "symbol": "UNI",
+            "decimals": 6,
+            "logoURI": "https://github.com/espoir1989/iconassets/raw/master/0x73b3B1b2cACAB92963144277458E2E9851517022/logo.png",
+            "pairs": []
+        },
     ],
     "version": {
         "major": 11,
