@@ -1,0 +1,12 @@
+{
+    "name": "UNI Token",
+    "website": "https://syq.world",
+    "description": "",
+    "explorer": "https://bscscan.com/address/0x73b3B1b2cACAB92963144277458E2E9851517022",
+    "research": "",
+    "type": "BEP20",
+    "symbol": "UNI",
+    "decimals": 6,
+    "status": "active",
+    "id": "0x73b3B1b2cACAB92963144277458E2E9851517022"
+}
